@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="1.563" failures="0" tests="1" name="maven.test.bundle.runner.ContactTest" >
+  <testcase time="1.563" classname="maven.test.bundle.runner.ContactTest" name="runner.ContactTest.contactTest()" />
+</testsuite>

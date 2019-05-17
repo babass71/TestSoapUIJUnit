@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="10.219" failures="0" tests="1" name="maven.test.bundle.runner.WeatherTest" >
+  <testcase time="10.209" classname="maven.test.bundle.runner.WeatherTest" name="runner.WeatherTest.contactTest()" />
+</testsuite>
