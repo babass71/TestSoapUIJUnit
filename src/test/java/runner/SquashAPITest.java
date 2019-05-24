@@ -30,7 +30,7 @@ public class SquashAPITest {
 
     @Test
     public void fullControl() throws Exception {
-            WsdlProject project = new WsdlProject("resources/API_REST_Squash-soapui-project.xml");
+            WsdlProject project = new WsdlProject("resources/API REST Squash-soapui-project.xml");
             List<TestSuite> testSuites = project.getTestSuiteList();
             
             for( TestSuite suite : testSuites ) {
